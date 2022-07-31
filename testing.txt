@@ -1,0 +1,2 @@
+if i rech here that means that iam a legendgit init
+git init
